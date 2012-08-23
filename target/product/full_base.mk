@@ -23,8 +23,7 @@ PRODUCT_PACKAGES := \
     drmserver \
     libdrmframework \
     libdrmframework_jni \
-    libfwdlockengine \
-    VideoEditor 
+    libfwdlockengine 
 
 PRODUCT_PACKAGES += \
     Galaxy4 \
